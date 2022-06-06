@@ -2,7 +2,7 @@
 #+SUBTITLE: *Note: Sub-titles are not captured in Xplore and should not be used
 #+AUTHOR:
 #+DATE:
-#+SETUPFILE: ~/Documents/org/paper/ieee.org
+#+SETUPFILE: ieee.org
 #+LATEX_HEADER: \input{def.tex}
 #+LATEX_HEADER: \input{author.tex}
 #+OPTIONS: toc:nil
