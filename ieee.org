@@ -1,0 +1,10 @@
+#+LATEX_CLASS: IEEEtran
+#+LATEX_CLASS_OPTIONS: [conference]
+#+LATEX_HEADER: \IEEEoverridecommandlockouts
+#+LATEX_HEADER: \usepackage{cite}
+#+LATEX_HEADER: \usepackage{amsmath,amssymb,amsfonts}
+#+LATEX_HEADER: \usepackage{algorithmic}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \usepackage[hidelinks]{hyperref}
