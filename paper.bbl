@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{huang21_fusion_algor_visib_infrar_image}
+Hui Huang, Linlu Dong, Zhishuang Xue, Xiaofang Liu, and Caijian Hua.
+\newblock Fusion algorithm of visible and infrared image based on anisotropic
+  diffusion and image enhancement (capitalize only the first word in a title
+  (or heading), the first word in a subtitle (or subheading), and any proper
+  nouns).
+\newblock {\em PLOS ONE}, 16(2):e0245563, 2021.
+
+\bibitem{jacobs63_fine_partic_thin_films_exchan}
+I.S. Jacobs and C.P. Bean.
+\newblock {\em Fine Particles, Thin Films and Exchange Anisotropy (Effects of
+  Finite Dimensions and Interfaces on the Basic Properties of Ferromagnets)},
+  pages 271--350.
+\newblock Spin Arrangements and Crystal Structure, Domains, and Micromagnetics.
+  Elsevier, 1963.
+
+\bibitem{maxwellil_magnet_probl}
+James~Clerk Maxwell.
+\newblock {\em MAGNETIC PROBLEMS}, pages 56--73.
+\newblock A Treatise on Electricity and Magnetism. Cambridge University Press,
+  nil.
+
+\bibitem{muller55_certain_infin_integ_invol_bessel_funct}
+G.~M. Muller.
+\newblock On certain infinite integrals involving bessel functions.
+\newblock {\em Journal of Mathematics and Physics}, 34(1-4):179--181, 1955.
+
+\bibitem{aubert97_variat_method_image_recov}
+Gilles Aubert and Luminita Vese.
+\newblock A variational method in image recovery.
+\newblock {\em SIAM Journal on Numerical Analysis}, 34(5):1948--1979, 1997.
+
+\end{thebibliography}
