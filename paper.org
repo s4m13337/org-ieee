@@ -1,4 +1,4 @@
-#+TITLE: Org LaTeX Test
+#+TITLE: IEEE Conference Template in Emacs Org mode
 #+SUBTITLE: *Note: Sub-titles are not captured in Xplore and should not be used
 #+AUTHOR:
 #+DATE:
