@@ -1,5 +1,5 @@
 * IEEE template for Org Mode
 
   - Enter author details in ~author.tex~
-  - ~def.tex~ contains definition for `BibTeX`
+  - ~def.tex~ contains definition for ~BibTeX~
   - ~ieee.org~ contains the required headers
